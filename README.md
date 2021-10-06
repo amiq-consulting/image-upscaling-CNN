@@ -24,7 +24,7 @@ Using the advantages offered by the FPGA and the parallelization potential of th
 **The accelerators are tested with the following hardware platform:** Xilinx - Zynq-7000 SoC  
 
 # Blog post
-*How to Accelerate an Image Upscaling CNN on FPGA using HLS* - https://www.amiq.com/consulting/blog/.  
+https://www.amiq.com/consulting/2021/08/23/how-to-accelerate-an-image-upscaling-cnn-on-fpga-using-hls/
 
 # License
 The application is available for free under the Apache License 2.

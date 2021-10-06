@@ -1,4 +1,4 @@
-# Fast Super-Resolution Convolutional Neural Network - FSRCNN 
+# Fast Super-Resolution Convolutional Neural Network - FSRCNN
 
 *Non-Accelerated-FSRCNN* directory contains the *Python-FSRCNN* directory and the *Vivado-HLS-Source-Code* directory. 
 In the *Python-FSRCNN* directory you can find the files needed to run the Python FSRCNN on the CPU. 

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Wed Jul  7 20:42:18 2021" VIVADOVERSION="2018.2">
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Mon Aug 23 16:59:16 2021" VIVADOVERSION="2018.2">
 
   <SYSTEMINFO ARCH="zynq" BOARD="www.digilentinc.com:pynq-z1:part0:1.0" DEVICE="7z020" NAME="design_1" PACKAGE="clg400" SPEEDGRADE="-1"/>
 
@@ -999,11 +999,11 @@
       <PARAMETERS>
         <PARAMETER NAME="C_S_AXI_SCALAR_PARAMETERS_ADDR_WIDTH" VALUE="6"/>
         <PARAMETER NAME="C_S_AXI_SCALAR_PARAMETERS_DATA_WIDTH" VALUE="32"/>
-        <PARAMETER NAME="Component_Name" VALUE="design_1_bicubic_0_0"/>
+        <PARAMETER NAME="Component_Name" VALUE="design_1_bicubic_0_1"/>
         <PARAMETER NAME="clk_period" VALUE="10"/>
         <PARAMETER NAME="machine" VALUE="64"/>
         <PARAMETER NAME="combinational" VALUE="0"/>
-        <PARAMETER NAME="latency" VALUE="undef"/>
+        <PARAMETER NAME="latency" VALUE="30965783"/>
         <PARAMETER NAME="II" VALUE="x"/>
         <PARAMETER NAME="EDK_IPTYPE" VALUE="PERIPHERAL"/>
         <PARAMETER NAME="C_S_AXI_SCALAR_PARAMETERS_BASEADDR" VALUE="0x43C00000"/>
